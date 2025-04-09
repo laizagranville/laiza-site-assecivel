@@ -1,1 +1,1 @@
-# laiza-site-assecivel
+# laiza-site-acessivel
